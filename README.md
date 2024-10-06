@@ -1,5 +1,9 @@
 # A Collection of wallPapers made in blender, a software for 3D modeling/rendering of objects.
 
+## Luna Rossa AC75 2024
+
+![Luna Rossa AC75](https://github.com/sommaa/wallPapers/blob/main/LunaRossaWide.png)
+
 ## Bonsai
 
 ![bonsai](https://github.com/sommaa/wallPapers/blob/main/bonsai.png)
